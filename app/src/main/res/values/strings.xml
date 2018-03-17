@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weightText">WEIGHT [KG]</string>
+    <string name="heightText">HEIGHT [CM]</string>
+    <string name="weightText2">WEIGHT [LBS]</string>
+    <string name="heightText2">HEIGHT [IN]</string>
+    <string name="calculateButton">Calculate BMI</string>
+    <string name="switchUnits">Units</string>
+    <string name="error">Incorrect data</string>
+    <string name="bmiText">BMI:</string>
+    <string name="underwieght">UNDERWEIGHT</string>
+    <string name="normal">NORMAL</string>
+    <string name="overweight">OVERWEIGHT</string>
+    <string name="obese">OBESE</string>
+    <string name="severelyObese">SEVERELY OBESE</string>
+    <string name="opis">Witam! Jestem Mateusz i mam 22 lata. Studiuje informatyke na Pwr.</string>
+    <string name="about">About me</string>
+
+    <string name="title_activity_author">About me</string>
+
+</resources>
